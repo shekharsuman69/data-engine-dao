@@ -1,0 +1,6 @@
+com\abc\de\hbase\dao\HBaseRow.class
+com\abc\de\hbase\dao\HBaseResultComparator.class
+com\abc\de\hbase\dao\HBaseResultSet.class
+com\abc\de\hbase\dao\HBaseCell.class
+com\abc\de\hbase\dao\HBaseColumn.class
+com\abc\de\hbase\dao\HBaseDAO.class
